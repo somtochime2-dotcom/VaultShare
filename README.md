@@ -53,9 +53,9 @@ VaultShare/
 │   ├── package.json
 │   └── ...
 │
-└── README.md
+└── README.md .
 
-## How It Works
+How It Works
 A user creates an account.
 The user's password is securely hashed before being stored.
 The user logs in and receives an authentication token.
